@@ -117,7 +117,7 @@ pre {
   overflow: auto; }
 
 code, pre {
-  font-family: 'PT Mono', sans-serif; }
+  font-family: 'PT Mono', monospace, sans-serif; }
 
 blockquote {
   margin: 20px;
