@@ -80,8 +80,18 @@ ul {
 ol {
   list-style: outside decimal;
   margin: 0em 0 1.5em 1.5em; }
- 
+
+table {
+    border: 1px solid #AAAAAA; 
+}
+
+th {
+    border: 1px solid #AAAAAA; 
+    border-bottom: 2px solid #AAAAAA; 
+}
+
 td {
+    border: 1px solid #AAAAAA; 
     padding: 0 1em;
 }
 
