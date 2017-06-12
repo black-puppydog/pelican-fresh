@@ -88,6 +88,13 @@ table {
 th {
     border: 1px solid #AAAAAA; 
     border-bottom: 2px solid #AAAAAA; 
+    padding: 0 1em;
+}
+
+.code pre td table tr tbody {
+    border: 0px solid #AAAAAA; 
+    border-collapse: collapse;
+    padding: 0 1em;
 }
 
 td {
